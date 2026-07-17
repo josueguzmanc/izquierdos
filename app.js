@@ -1,9 +1,5 @@
-/* ==========================================================
-   IZQUIERDOS BARBER SHOP - Frontend
-   Pega aquí la URL de tu Web App de Google Apps Script
-   (Implementar -> Nueva implementación -> Aplicación web)
-   ========================================================== */
-const API_URL = "PEGA_AQUI_TU_URL_DE_APPS_SCRIPT";
+
+const API_URL = "https://script.google.com/macros/s/AKfycbxl9jf2P7ZkaepnuaQSy5DW-v9bdMbtWQRkLfueamtzlC8_s7kEhizH--CxJdJiDDwT/exec";
 
 /* ---------------- ESTADO GLOBAL ---------------- */
 let barberos = [];
